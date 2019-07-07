@@ -1,1 +1,1 @@
-# greedy-algorithms
+# greedy-algorithms && dynamic programming
